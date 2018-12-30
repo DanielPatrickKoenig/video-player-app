@@ -1,0 +1,16 @@
+{
+  "name": "symbol-matcher",
+  "version": "1.0.0",
+  "description": "A simple game of symbol matching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Dan Koenig <dpkoenig27@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
